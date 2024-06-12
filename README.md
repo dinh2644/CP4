@@ -1,7 +1,4 @@
-# CS310-Spring2024-CP4
-
-## Message
-A message to my beautiful camp square room 124 roommates
+# Song Management Coding Project
 
 ## Folders
 - **bin:** Holds executable files.
