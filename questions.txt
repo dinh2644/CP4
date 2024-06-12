@@ -1,0 +1,6 @@
+Efficiency for remove and listen (how can remove be Log N times if were onyl removing from list of songs)
+
+What data structure hold what types
+
+Should remove function only use BST to remove from all data structures
+

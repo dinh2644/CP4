@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "valgrind",
+            "type": "shell",
+            "command": "valgrind",
+            "args": [
+                "--leak-check=full",
+                "/home/tdinh3/cs310/CP4/cs310-spring2024-cp4-group-assignment-group12/bin/listen_up",
+                "<",
+                "/home/tdinh3/cs310/CP4/cs310-spring2024-cp4-group-assignment-group12/input.txt",
+            ]
+        }
+    ]
+}

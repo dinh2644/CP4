@@ -1,0 +1,8 @@
+song 1 james 330 alpha   
+song 2 charlie 440 beta  
+remove alpha             
+song 3 michael 310 nick  
+remove beta 			 
+remove nick 			
+favorite
+quit
